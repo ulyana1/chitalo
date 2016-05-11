@@ -1,0 +1,47 @@
+<resources>
+    <string name="title_activity_settings">Налаштуйте Читало</string>
+    <string name="pref_header_data_refresh">Данні &amp; Оновлення</string>
+    <string name="pref_header_read_list_article_selection">Список для читання &amp; Вибір статтей</string>
+    <string name="pref_title_refresh_frequency">Частота оновлення заголовків</string>
+    <string name="pref_title_headlines_per_feed">Кількість заголовків у стрічці</string>
+    <string-array name="pref_refresh_frequency_titles">
+        <item>1 година</item>
+        <item>3 години</item>
+        <item>6 годин</item>
+        <item>12 годин</item>
+        <item>Раз на день</item>
+        <item>Ніколи</item>
+    </string-array>
+    <string-array name="pref_refresh_frequency_values">
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>720</item>
+        <item>1440</item>
+        <item>-1</item>
+    </string-array>
+    <string-array name="pref_headlines_per_feed_titles">
+        <item>5 заголовків</item>
+        <item>10 заголовків</item>
+        <item>15 заголовків</item>
+        <item>20 заголовків</item>
+    </string-array>
+    <string-array name="pref_headlines_per_feed_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="pref_tap_on_read_item_options">
+        <item>Поділитись у вибраному додатку</item>
+        <item>Відкривати вибір варіантів</item>
+        <item>Відкривати у браузері</item>
+        <item>Нічого не робити</item>
+    </string-array>
+    <string-array name="pref_tap_on_read_item_values">
+        <item>3</item>
+        <item>2</item>
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+</resources>

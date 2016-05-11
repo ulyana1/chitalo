@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Читало</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="setup_overview">Використайте мобільну версію Читало щоб додати стрічку. Ви будете отримувати нові заголовки прямо на ваш wearable!</string>
+    <string name="updated_feed_notify_title">Ваші новини</string>
+    <string name="updated_feed_notify_desc">Свайпніть щоб відкрити ваші останні заголовки</string>
+    <string name="close_instructions">Нажміть та утримуйте щоб закрити Читало.</string>
+    <string name="open_on_device">Прочитати це пізніше</string>
+    <string name="sent_to_device">Відправити на телефон</string>
+</resources>
